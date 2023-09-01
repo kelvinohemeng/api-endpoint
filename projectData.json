@@ -10,7 +10,7 @@
       "description": "A website for the department of graphic design at the University of Education, Winneba",
       "status": "online",
       "imageUrl": "/images/desoc.jpg",
-      "category": ["Website", "React", "Interactive"],
+      "category": ["Website", "Web design", "GSAP"],
       "images": [
         "/images/desoc/00.jpg",
         "/images/desoc/01.jpg",
@@ -31,7 +31,6 @@
       "status": "notonline",
       "imageUrl": "/images/kaizen.jpg",
       "category": [
-        "Website",
         "React",
         "Interactive",
         "React-router",
@@ -57,7 +56,7 @@
       "description": "A simple landing page built in framer",
       "status": "online",
       "imageUrl": "/images/leava.jpg",
-      "category": ["Website", "React", "Interactive"],
+      "category": ["Website", "Framer", "Web design"],
       "images": [
         "/images/leava/00.jpg",
         "/images/leava/gif.gif",
