@@ -54,7 +54,7 @@
       "client": "Michael Badiako",
       "location": "Ghana",
       "live": "https://leava.framer.website/",
-      "description": "A website for the department of graphic design at the University of Education, Winneba",
+      "description": "A simple landing page built in framer",
       "status": "online",
       "imageUrl": "/images/leava.jpg",
       "category": ["Website", "React", "Interactive"],
