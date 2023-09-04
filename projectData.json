@@ -1,26 +1,6 @@
 {
   "projects": [
     {
-      "id": 1,
-      "title": "Desoc Website",
-      "date": "2020",
-      "client": "Unkown",
-      "location": "Ghana",
-      "live": "https://desoc-so.netlify.app/",
-      "description": "A website for the department of graphic design at the University of Education, Winneba",
-      "status": "online",
-      "imageUrl": "/images/desoc.jpg",
-      "category": ["Website", "Web design", "GSAP"],
-      "images": [
-        "/images/desoc/00.jpg",
-        "/images/desoc/01.jpg",
-        "/images/desoc/02.jpg",
-        "/images/desoc/03.jpg",
-        "/images/desoc/04.jpg",
-        "/images/desoc/05.jpg"
-      ]
-    },
-    {
       "id": 2,
       "title": "kaizen",
       "date": "2023",
@@ -44,6 +24,26 @@
         "/images/kaizen/04.jpg",
         "/images/kaizen/gif.gif",
         "/images/kaizen/last-long.jpg"
+      ]
+    },
+        {
+      "id": 1,
+      "title": "Desoc Website",
+      "date": "2020",
+      "client": "Unkown",
+      "location": "Ghana",
+      "live": "https://desoc-so.netlify.app/",
+      "description": "A website for the department of graphic design at the University of Education, Winneba",
+      "status": "online",
+      "imageUrl": "/images/desoc.jpg",
+      "category": ["Website", "Web design", "GSAP"],
+      "images": [
+        "/images/desoc/00.jpg",
+        "/images/desoc/01.jpg",
+        "/images/desoc/02.jpg",
+        "/images/desoc/03.jpg",
+        "/images/desoc/04.jpg",
+        "/images/desoc/05.jpg"
       ]
     },
     {
