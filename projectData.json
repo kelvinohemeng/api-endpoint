@@ -7,7 +7,7 @@
       "client": "Michael Badiako",
       "location": "Ghana",
       "live": "https://kaizen-react-test.mx4.app",
-      "description": "Rebranded the company from iamadinkra which was a personal brand to kaizen av project, worked on designing the logo, and other brand assets including the brand manual, t-shirts, documents, and business cards, with extensive research aligning to the brand's vision and appearance. \n\n Worked on Redesigning and developing the new look for kaizen av projects, I created user flows to help visualize how users will interact with the website, designed all the pages on Figma with interesting UI and interactive prototyping, After approvalal from the client, I began the development for the website using the latest technologies and added features that will make kaizen av projects stand out from it competitors.",
+      "description": "Rebranded the company from iamadinkra which was more of a personal brand to kaizen av project, worked on designing the logo, and other brand assets including the brand manual, t-shirts, documents, and business cards, with extensive research aligning to the brands vision and appearance. \n\n Worked on Redesigning and developing the new look for kaizen av projects, I created user flows to help visualize how users will interact with the website , designed all the pages on Figma with interesting UI an interactive prototyping, After I received approval from the client, I began the development for the website using the latest technologies add on features that will make kaizen av projects stand out from it competitors.",
       "status": "online",
       "imageUrl": "/images/kaizen.jpg",
       "category": [
@@ -16,7 +16,7 @@
         "React-router",
         "GSAP",
         "Sass",
-        "Cloudinary",
+        "Cloudinary"
       ],
       "video": "https://res.cloudinary.com/base-data/video/upload/ac_none,q_40/v1693874949/images/kaizen/video.mp4",
       "images": [
@@ -34,7 +34,7 @@
       "id": 2,
       "title": "Desoc Website",
       "date": "2020",
-      "client": "Unkown",
+      "client": "Unknown",
       "location": "Ghana",
       "live": "https://desoc-so.netlify.app/",
       "description": "A landing page for the Department of Graphic Design at the University of Education, Winneba",
