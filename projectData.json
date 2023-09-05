@@ -17,6 +17,7 @@
         "GSAP",
         "Sass"
       ],
+      "video":"https://res.cloudinary.com/base-data/video/upload/v1693874949/images/kaizen/video.mp4",
       "images": [
         "https://res.cloudinary.com/base-data/video/upload/ac_none/v1693359206/images/kaizen/kaizen-design-vid.gif",
         "/images/kaizen/02.jpg",
