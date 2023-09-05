@@ -46,23 +46,6 @@
         "/images/desoc/04.jpg",
         "/images/desoc/05.jpg"
       ]
-    },
-    {
-      "id": 3,
-      "title": "Leava",
-      "date": "2023",
-      "client": "Leava",
-      "location": "Ghana",
-      "live": "https://leava.framer.website/",
-      "description": "A simple landing page built in framer",
-      "status": "online",
-      "imageUrl": "/images/leava.jpg",
-      "category": ["Website", "Framer", "Web design"],
-      "images": [
-        "/images/leava/00.jpg",
-        "/images/leava/gif.gif",
-        "/images/leava/long.jpg"
-      ]
     }
   ]
 }
