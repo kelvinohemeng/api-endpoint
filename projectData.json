@@ -50,23 +50,17 @@
     },
     {
       "id": 3,
-      "title": "Landing Page",
-      "date": "2020",
-      "client": "Unknown",
+      "title": "META",
+      "date": "2022",
+      "client": "Meta",
       "location": "Ghana",
-      "live": "https://desoc-so.netlify.app/",
-      "description": "A landing page for the Department of Graphic Design at the University of Education, Winneba",
-      "status": "offline",
-      "imageUrl": "https://res.cloudinary.com/base-data/image/upload/v1692492541/images/desoc.jpg",
-      "category": ["Website", "Web design", "GSAP", "JavaScript"],
-      "images": [
-        "/images/desoc/00.jpg",
-        "/images/desoc/01.jpg",
-        "/images/desoc/02.jpg",
-        "/images/desoc/03.jpg",
-        "/images/desoc/04.jpg",
-        "/images/desoc/05.jpg"
-      ]
+      "live": "https://ramadannigeria2023.mx4.app/",
+      "description": "A landing page for a meta ramadan event. \n\n i was responsible for designing and developing the landing pages with responsive design in mind",
+      "status": "online",
+      "imageUrl": "/assets/meta.jpeg",
+      "category": ["Website", "Web design", "HTML", "CSS", "JavaScript"],
+      "video":"https://res.cloudinary.com/base-data/video/upload/q_50/v1694645110/images/meta.mp4"
+      
     },
     {
       "id": 4,
@@ -86,6 +80,31 @@
         "/images/desoc/03.jpg",
         "/images/desoc/04.jpg",
         "/images/desoc/05.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Hiedberg",
+      "date": "2020",
+      "client": "Hiedberg",
+      "location": "Ghana",
+      "live": "https://www.behance.net/gallery/160254719/Hiedberg-Branding",
+      "description": "I waas responsible for creating three logo concept ideas forthe brand, and designing the brand, it's look and feel and the brand manual.",
+      "status": "online",
+      "imageUrl": "https://res.cloudinary.com/base-data/image/upload/v1692492541/images/desoc.jpg",
+      "category": ["Branding", "Mockup", "Logo design", "Page design","Document design"],
+      "images": [
+        "/images/hiedberg/000.png",
+        "/images/hiedberg/00.png",
+        "/images/hiedberg/01.png",
+        "/images/hiedberg/002.png",
+        "/images/hiedberg/002.png",
+        "/images/hiedberg/03.png",
+        "/images/hiedberg/003.png",
+        "/images/hiedberg/04.png",
+        "/images/hiedberg/05.png",
+        "/images/hiedberg/06.png",
+        "/images/hiedberg/09.png"
       ]
     }
   ]
