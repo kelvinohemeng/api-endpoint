@@ -2,6 +2,25 @@
   "projects": [
     {
       "id": 1,
+      "title": "NFL SA Leaderboard",
+      "date": "2023",
+      "client": "Michael Badiako",
+      "location": "Ghana",
+      "live": "https://nfl-test.mx4.app",
+      "description": "Built a leaderboard for an NFL South Africa event, this was built using react and google sheet, harnessing the app script from google sheets to convert the data into a restful auto updatable api and then integrated the data to the frontend.",
+      "status": "online",
+      "imageUrl": "https://res.cloudinary.com/base-data/image/upload/v1694632349/images/NFL/nflsa.jpg",
+      "category": [
+        "React",
+        "App Script",
+        "React-router",
+        "Google Sheets",
+        "Tailwind CSS",
+      ],
+      "video": "https://res.cloudinary.com/base-data/video/upload/v1694632312/images/NFL/video.mp4",
+    },
+    {
+      "id": 2,
       "title": "kaizen",
       "date": "2023",
       "client": "Michael Badiako",
@@ -30,7 +49,27 @@
       ]
     },
     {
-      "id": 2,
+      "id": 3,
+      "title": "Landing Page",
+      "date": "2020",
+      "client": "Unknown",
+      "location": "Ghana",
+      "live": "https://desoc-so.netlify.app/",
+      "description": "A landing page for the Department of Graphic Design at the University of Education, Winneba",
+      "status": "offline",
+      "imageUrl": "https://res.cloudinary.com/base-data/image/upload/v1692492541/images/desoc.jpg",
+      "category": ["Website", "Web design", "GSAP", "JavaScript"],
+      "images": [
+        "/images/desoc/00.jpg",
+        "/images/desoc/01.jpg",
+        "/images/desoc/02.jpg",
+        "/images/desoc/03.jpg",
+        "/images/desoc/04.jpg",
+        "/images/desoc/05.jpg"
+      ]
+    },
+    {
+      "id": 4,
       "title": "Desoc",
       "date": "2020",
       "client": "Unknown",
