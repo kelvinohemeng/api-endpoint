@@ -6,7 +6,7 @@
       "date": "2023",
       "client": "Michael Badiako",
       "location": "Ghana",
-      "live": "https://nfl-test.mx4.app",
+      "live": "https://nfloverall.mx4.app",
       "description": "Built a leaderboard for an NFL South Africa event, this was built using react and google sheet, harnessing the app script from google sheets to convert the data into a restful auto updatable api and then integrated the data to the frontend.",
       "status": "online",
       "imageUrl": "https://res.cloudinary.com/base-data/image/upload/v1694632349/images/NFL/nflsa.jpg",
