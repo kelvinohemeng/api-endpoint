@@ -31,7 +31,7 @@
       "client": "Michael Badiako",
       "location": "Ghana",
       "live": "https://kaizen-react-test.mx4.app",
-      "description": "Designed and developed a full website with routing functionalities, API calls to retrieve data for project section, User experience, dynamic routing for the project section and also used Cloudinary to house all the images for the various projects to reduce load on the website1",
+      "description": "Designed and developed a full website with routing functionalities, API calls to retrieve data for project section, User experience, dynamic routing for the project section and also used Cloudinary to house all the images for the various projects to reduce load on the website",
       "status": "online",
       "imageUrl": "/assets/kaizen.jpg",
       "category": [
