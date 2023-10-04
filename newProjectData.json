@@ -1,0 +1,117 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "NFL SA Leaderboard",
+      "date": "2023",
+      "client": "Michael Badiako",
+      "location": "Ghana",
+      "live": "https://nfloverall.mx4.app",
+      "description": "Built a leaderboard for an NFL South Africa event, this was built using react and google sheet, harnessing the app script from google sheets to convert the data into a restful auto updatable api and then integrated the data to the frontend.",
+      "status": "online",
+      "imageUrl": "https://res.cloudinary.com/base-data/image/upload/v1694632349/images/NFL/nflsa.jpg",
+      "category": [
+        "React",
+        "App Script",
+        "React-router",
+        "Google Sheets",
+        "Tailwind CSS"
+      ],
+      "video": "https://res.cloudinary.com/base-data/video/upload/e_accelerate:0,q_60/v1695871899/images/NFL/nfl_xbnqdp.mp4",
+      "images": [
+        "https://res.cloudinary.com/base-data/video/upload/ac_none,q_50/v1694938693/images/NFL/signal-2023-09-16-201544_004_tkdhsl.gif",
+        "/images/NFL/00.jpg",
+        "/images/NFL/01.jpg"
+        
+      ]
+    },
+    {
+      "id": 2,
+      "title": "kaizen",
+      "date": "2023",
+      "client": "Michael Badiako",
+      "location": "Ghana",
+      "live": "https://kaizen-react-test.mx4.app",
+      "description": "Rebranded the company from iamadinkra which was more of a personal brand to kaizen av project, worked on designing the logo, and other brand assets including the brand manual, t-shirts, documents, and business cards, with extensive research aligning to the brands vision and appearance. \n\n Worked on redesigning and developing the new look for kaizen av projects, I created user flows to help visualize how users will interact with the website , designed all the pages on Figma with interesting UI an interactive prototyping, After I received approval from the client, I began the development for the website using the latest technologies add on features that will make kaizen av projects stand out from it competitors.",
+      "status": "online",
+      "imageUrl": "/assets/kaizen.jpg",
+      "category": [
+        "React",
+        "Interactive",
+        "React-router",
+        "GSAP",
+        "Sass",
+        "Cloudinary"
+      ],
+      "video": "https://res.cloudinary.com/base-data/video/upload/ac_none,q_40/v1693874949/images/kaizen/video.mp4",
+      "images": [
+        "https://res.cloudinary.com/base-data/video/upload/ac_none/v1693359206/images/kaizen/kaizen-design-vid.gif",
+        "/images/kaizen/02.jpg",
+        "/images/kaizen/03.jpg",
+        "https://res.cloudinary.com/base-data/image/upload/q_50/v1693954894/images/kaizen/video-mobile.webp",
+        "/images/kaizen/04.jpg",
+        "/images/kaizen/gif.gif",
+        "/images/kaizen/last-long.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "META",
+      "date": "2022",
+      "client": "Meta",
+      "location": "Ghana",
+      "live": "https://ramadannigeria2023.mx4.app/",
+      "description": "A landing page for a meta ramadan event. \n\n i was responsible for designing and developing the landing pages with responsive design in mind.",
+      "status": "online",
+      "imageUrl": "/assets/meta.jpg",
+      "category": ["Website", "Web design", "HTML", "CSS", "JavaScript"],
+      "video":"https://res.cloudinary.com/base-data/video/upload/q_50/v1694645110/images/meta.mp4"
+      
+    },
+    {
+      "id": 4,
+      "title": "Desoc",
+      "date": "2020",
+      "client": "Unknown",
+      "location": "Ghana",
+      "live": "https://desoc-so.netlify.app/",
+      "description": "A landing page for the Department of Graphic Design at the University of Education, Winneba",
+      "status": "online",
+      "imageUrl": "https://res.cloudinary.com/base-data/image/upload/v1692492541/images/desoc.jpg",
+      "category": ["Website", "Web design", "GSAP", "JavaScript"],
+      "images": [
+        "/images/desoc/00.jpg",
+        "/images/desoc/01.jpg",
+        "/images/desoc/02.jpg",
+        "/images/desoc/03.jpg",
+        "/images/desoc/04.jpg",
+        "/images/desoc/05.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Hiedberg",
+      "date": "2020",
+      "client": "Hiedberg",
+      "location": "Ghana",
+      "live": "https://www.behance.net/gallery/160254719/Hiedberg-Branding",
+      "description": "I was responsible for creating three logo concept ideas fort he brand, and designing the brand, it's look and feel and the brand manual.",
+      "status": "online",
+      "imageUrl": "https://res.cloudinary.com/base-data/image/upload/v1692492541/images/desoc.jpg",
+      "category": ["Branding", "Mockup", "Logo design", "Page design","Document design"],
+      "images": [
+        "/images/hiedberg/000.png",
+        "/images/hiedberg/00.png",
+        "/images/hiedberg/01.png",
+        "/images/hiedberg/002.png",
+        "/images/hiedberg/002.png",
+        "/images/hiedberg/03.png",
+        "/images/hiedberg/003.png",
+        "/images/hiedberg/04.png",
+        "/images/hiedberg/05.png",
+        "/images/hiedberg/06.png",
+        "/images/hiedberg/09.png"
+      ]
+    }
+  ]
+}
