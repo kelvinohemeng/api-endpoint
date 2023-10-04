@@ -1,4 +1,4 @@
-5{
+{
   "projects": [
     {
       "id": 1,
@@ -12,7 +12,6 @@
       "imageUrl": "https://res.cloudinary.com/base-data/image/upload/v1694632349/images/NFL/nflsa.jpg",
       "logo":"/assets/nfl.png",
       "category":"Website | React | API Development | Tailwind CSS",
-
       "video": "https://res.cloudinary.com/base-data/video/upload/e_accelerate:0,q_60/v1695871899/images/NFL/nfl_xbnqdp.mp4",
       "images": [
         "https://res.cloudinary.com/base-data/video/upload/ac_none,q_50/v1694938693/images/NFL/signal-2023-09-16-201544_004_tkdhsl.gif",
