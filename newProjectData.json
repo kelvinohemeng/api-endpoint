@@ -10,12 +10,8 @@
       "description": "Built a leaderboard for an NFL South Africa event, this was built using react and google sheet, harnessing the app script from google sheets to convert the data into a restful auto updatable api and then integrated the data to the frontend.",
       "status": "online",
       "imageUrl": "https://res.cloudinary.com/base-data/image/upload/v1694632349/images/NFL/nflsa.jpg",
-      "category": [
-        "Website",
-        "React",
-        "API Development",
-        "Tailwind CSS"
-      ],
+      "category":"Website | React | API Development | Tailwind CSS",
+
       "video": "https://res.cloudinary.com/base-data/video/upload/e_accelerate:0,q_60/v1695871899/images/NFL/nfl_xbnqdp.mp4",
       "images": [
         "https://res.cloudinary.com/base-data/video/upload/ac_none,q_50/v1694938693/images/NFL/signal-2023-09-16-201544_004_tkdhsl.gif",
@@ -34,13 +30,7 @@
       "description": "Designed and developed a full website with routing functionalities, API calls to retrieve data for project section, User experience, dynamic routing for the project section and also used Cloudinary to house all the images for the various projects to reduce load on the website",
       "status": "online",
       "imageUrl": "/assets/kaizen.jpg",
-      "category": [
-       "Website",
-        "React",
-        "Sass",
-        "API Development",
-        "Tailwind CSS"
-      ],
+      "category": "Website | Sass | API Development | Tailwind CSS",
       "video": "https://res.cloudinary.com/base-data/video/upload/ac_none,q_40/v1693874949/images/kaizen/video.mp4",
       "images": [
         "https://res.cloudinary.com/base-data/video/upload/ac_none/v1693359206/images/kaizen/kaizen-design-vid.gif",
@@ -62,7 +52,7 @@
       "description": "A landing page for a meta ramadan event. \n\n i was responsible for designing and developing the landing pages with responsive design in mind.",
       "status": "online",
       "imageUrl": "/assets/meta.jpg",
-      "category": ["Website", "Web design", "HTML", "CSS", "JavaScript"],
+      "category": "Website | Web design | JavaScript",
       "video":"https://res.cloudinary.com/base-data/video/upload/q_50/v1694645110/images/meta.mp4"
       
     },
@@ -76,7 +66,7 @@
       "description": "A landing page for the Department of Graphic Design at the University of Education, Winneba",
       "status": "online",
       "imageUrl": "https://res.cloudinary.com/base-data/image/upload/v1692492541/images/desoc.jpg",
-      "category": ["Website", "Web design", "GSAP", "JavaScript"],
+      "category":"Website | Web design | GSAP | JavaScript",
       "images": [
         "/images/desoc/00.jpg",
         "/images/desoc/01.jpg",
@@ -96,7 +86,7 @@
       "description": "I was responsible for creating three logo concept ideas fort he brand, and designing the brand, it's look and feel and the brand manual.",
       "status": "online",
       "imageUrl": "https://res.cloudinary.com/base-data/image/upload/v1692492541/images/desoc.jpg",
-      "category": ["Branding", "Mockup", "Logo design", "Page design","Document design"],
+      "category": "Branding | Mockup | Logo design ",
       "images": [
         "/images/hiedberg/000.png",
         "/images/hiedberg/00.png",
