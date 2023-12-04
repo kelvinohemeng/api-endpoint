@@ -10,14 +10,13 @@
       "description": "A leaderboard for an NFL event in South Africa",
       "status": "online",
       "imageUrl": "https://res.cloudinary.com/base-data/image/upload/v1694632349/images/NFL/nflsa.jpg",
-      "logo":"/assets/nfl.png",
-      "category":"Website | React | API Development | Tailwind CSS",
+      "logo": "/assets/nfl.png",
+      "category": "Website | React | API Development | Tailwind CSS",
       "video": "https://res.cloudinary.com/base-data/video/upload/e_accelerate:0,q_60/v1695871899/images/NFL/nfl_xbnqdp.mp4",
       "images": [
         "https://res.cloudinary.com/base-data/video/upload/ac_none,q_50/v1694938693/images/NFL/signal-2023-09-16-201544_004_tkdhsl.gif",
         "/images/NFL/00.jpg",
         "/images/NFL/01.jpg"
-        
       ]
     },
     {
@@ -31,14 +30,13 @@
       "description": "A leaderboard for an NFL event in South Africa",
       "status": "online",
       "imageUrl": "https://res.cloudinary.com/base-data/image/upload/v1694632349/images/NFL/nflsa.jpg",
-      "logo":"/assets/nfl.png",
-      "category":"Website | React | API Development | Tailwind CSS",
+      "logo": "/assets/nfl.png",
+      "category": "Website | React | API Development | Tailwind CSS",
       "video": "https://res.cloudinary.com/base-data/video/upload/e_accelerate:0,q_60/v1695871899/images/NFL/nfl_xbnqdp.mp4",
       "images": [
         "https://res.cloudinary.com/base-data/video/upload/ac_none,q_50/v1694938693/images/NFL/signal-2023-09-16-201544_004_tkdhsl.gif",
         "/images/NFL/00.jpg",
         "/images/NFL/01.jpg"
-        
       ]
     },
     {
@@ -51,8 +49,8 @@
       "description": "An ad marketing page for iamadinkra to showcase their capability to host client advertisement on screen in various location where potential costomers may be.",
       "status": "online",
       "imageUrl": "/assets/advantage.jpg",
-      "logo":"/assets/ad-logo.png",
-      "category": "Website | Landingpage | Tailwind CSS",
+      "logo": "/assets/ad-logo.png",
+      "category": "Website | Landingpage | Tailwind CSS"
     },
     {
       "id": 4,
@@ -64,12 +62,11 @@
       "description": "A landing page for a meta ramadan event. \n\n i was responsible for designing and developing the landing pages with responsive design in mind.",
       "status": "online",
       "imageUrl": "/assets/meta.jpg",
-      "logo":"/assets/meta-logo.png",
+      "logo": "/assets/meta-logo.png",
       "category": "Website | Web design | JavaScript",
-      "video":"https://res.cloudinary.com/base-data/video/upload/q_50/v1694645110/images/meta.mp4"
-      
+      "video": "https://res.cloudinary.com/base-data/video/upload/q_50/v1694645110/images/meta.mp4"
     },
-     {
+    {
       "id": 5,
       "title": "kaizen Branding",
       "date": "2023",
@@ -85,11 +82,11 @@
         "/images/kaizen/Branding/03.png",
         "/images/kaizen/Branding/02.png",
         "/images/kaizen/Branding/04.png",
-        "/images/kaizen/Branding/04.png",
+        "/images/kaizen/Branding/04.png"
       ]
     }
   ],
-   "projects": [
+  "projects": [
     {
       "id": 1,
       "title": "NFL SA Leaderboard",
@@ -100,14 +97,13 @@
       "description": "A leaderboard for an NFL event in South Africa",
       "status": "online",
       "imageUrl": "https://res.cloudinary.com/base-data/image/upload/v1694632349/images/NFL/nflsa.jpg",
-      "logo":"/assets/nfl.png",
-      "category":"Website | React | API Development | Tailwind CSS",
+      "logo": "/assets/nfl.png",
+      "category": "Website | React | API Development | Tailwind CSS",
       "video": "https://res.cloudinary.com/base-data/video/upload/e_accelerate:0,q_60/v1695871899/images/NFL/nfl_xbnqdp.mp4",
       "images": [
         "https://res.cloudinary.com/base-data/video/upload/ac_none,q_50/v1694938693/images/NFL/signal-2023-09-16-201544_004_tkdhsl.gif",
         "/images/NFL/00.jpg",
         "/images/NFL/01.jpg"
-        
       ]
     },
     {
@@ -121,14 +117,13 @@
       "description": "A leaderboard for an NFL event in South Africa",
       "status": "online",
       "imageUrl": "https://res.cloudinary.com/base-data/image/upload/v1694632349/images/NFL/nflsa.jpg",
-      "logo":"/assets/nfl.png",
-      "category":"Website | React | API Development | Tailwind CSS",
+      "logo": "/assets/nfl.png",
+      "category": "Website | React | API Development | Tailwind CSS",
       "video": "https://res.cloudinary.com/base-data/video/upload/e_accelerate:0,q_60/v1695871899/images/NFL/nfl_xbnqdp.mp4",
       "images": [
         "https://res.cloudinary.com/base-data/video/upload/ac_none,q_50/v1694938693/images/NFL/signal-2023-09-16-201544_004_tkdhsl.gif",
         "/images/NFL/00.jpg",
         "/images/NFL/01.jpg"
-        
       ]
     },
     {
@@ -141,8 +136,8 @@
       "description": "An ad marketing page for iamadinkra to showcase their capability to host client advertisement on screen in various location where potential costomers may be.",
       "status": "online",
       "imageUrl": "/assets/advantage.jpg",
-      "logo":"/assets/ad-logo.png",
-      "category": "Website | Landingpage | Tailwind CSS",
+      "logo": "/assets/ad-logo.png",
+      "category": "Website | Landingpage | Tailwind CSS"
     },
     {
       "id": 4,
@@ -154,8 +149,8 @@
       "description": "A simple landing page for a music artist where people can visit her content on other platforms for her new album release",
       "status": "online",
       "imageUrl": "/assets/advantage.jpg",
-      "logo":"/assets/ad-logo.png",
-      "category": "Website | Landingpage ",
+      "logo": "/assets/ad-logo.png",
+      "category": "Website | Landingpage "
     },
     {
       "id": 5,
@@ -167,10 +162,9 @@
       "description": "A landing page for a meta ramadan event. \n\n i was responsible for designing and developing the landing pages with responsive design in mind.",
       "status": "online",
       "imageUrl": "/assets/meta.jpg",
-      "logo":"/assets/meta-logo.png",
+      "logo": "/assets/meta-logo.png",
       "category": "Website | Web design | JavaScript",
-      "video":"https://res.cloudinary.com/base-data/video/upload/q_50/v1694645110/images/meta.mp4"
-      
+      "video": "https://res.cloudinary.com/base-data/video/upload/q_50/v1694645110/images/meta.mp4"
     },
     {
       "id": 6,
@@ -182,8 +176,8 @@
       "description": "A landing page concept for the Department of Graphic Design at the University of Education, Winneba",
       "status": "online",
       "imageUrl": "https://res.cloudinary.com/base-data/image/upload/q_46/v1691740863/images/departmentwebsite_aqjjbo.jpg",
-      "logo":"/assets/desoc.png",
-      "category":"Website | Web design | GSAP | JavaScript",
+      "logo": "/assets/desoc.png",
+      "category": "Website | Web design | GSAP | JavaScript",
       "images": [
         "/images/desoc/00.jpg",
         "/images/desoc/01.jpg",
@@ -218,7 +212,7 @@
         "/images/hiedberg/09.png"
       ]
     },
-     {
+    {
       "id": 8,
       "title": "kaizen Branding",
       "date": "2023",
@@ -234,7 +228,7 @@
         "/images/kaizen/Branding/03.png",
         "/images/kaizen/Branding/02.png",
         "/images/kaizen/Branding/04.png",
-        "/images/kaizen/Branding/04.png",
+        "/images/kaizen/Branding/04.png"
       ]
     }
   ]
