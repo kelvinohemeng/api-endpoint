@@ -1,73 +1,6 @@
 {
-  "selected": [
+  "projects": [
     {
-      "id": 1,
-      "title": "NFL SA Leaderboard",
-      "date": "2023",
-      "client": "Michael Badiako",
-      "location": "Ghana",
-      "live": "https://nfloverall.mx4.app",
-      "description": "A leaderboard for an NFL event in South Africa",
-      "status": "online",
-      "imageUrl": "https://res.cloudinary.com/base-data/image/upload/v1694632349/images/NFL/nflsa.jpg",
-      "logo": "/assets/nfl.png",
-      "category": "Website | React | API Development | Tailwind CSS",
-      "video": "https://res.cloudinary.com/base-data/video/upload/e_accelerate:0,q_60/v1695871899/images/NFL/nfl_xbnqdp.mp4",
-      "images": [
-        "https://res.cloudinary.com/base-data/video/upload/ac_none,q_50/v1694938693/images/NFL/signal-2023-09-16-201544_004_tkdhsl.gif",
-        "/images/NFL/00.jpg",
-        "/images/NFL/01.jpg"
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Firebase message relay application",
-      "date": "2023",
-      "client": "Michael Badiako",
-      "location": "Ghana",
-      "live": "reactions.mx4.app",
-      "live2": "https://nfloverall.mx4.app",
-      "description": "A leaderboard for an NFL event in South Africa",
-      "status": "online",
-      "imageUrl": "https://res.cloudinary.com/base-data/image/upload/v1694632349/images/NFL/nflsa.jpg",
-      "logo": "/assets/nfl.png",
-      "category": "Website | React | API Development | Tailwind CSS",
-      "video": "https://res.cloudinary.com/base-data/video/upload/e_accelerate:0,q_60/v1695871899/images/NFL/nfl_xbnqdp.mp4",
-      "images": [
-        "https://res.cloudinary.com/base-data/video/upload/ac_none,q_50/v1694938693/images/NFL/signal-2023-09-16-201544_004_tkdhsl.gif",
-        "/images/NFL/00.jpg",
-        "/images/NFL/01.jpg"
-      ]
-    },
-    {
-      "id": 3,
-      "title": "ad.Vantage",
-      "date": "2023",
-      "client": "Michael Badiako",
-      "location": "Ghana",
-      "live": "https://signage.iamadinkra.com",
-      "description": "An ad marketing page for iamadinkra to showcase their capability to host client advertisement on screen in various location where potential costomers may be.",
-      "status": "online",
-      "imageUrl": "/assets/advantage.jpg",
-      "logo": "/assets/ad-logo.png",
-      "category": "Website | Landingpage | Tailwind CSS"
-    },
-    {
-      "id": 4,
-      "title": "META",
-      "date": "2022",
-      "client": "Meta",
-      "location": "Ghana",
-      "live": "https://ramadannigeria2023.mx4.app/",
-      "description": "A landing page for a meta ramadan event. \n\n i was responsible for designing and developing the landing pages with responsive design in mind.",
-      "status": "online",
-      "imageUrl": "/assets/meta.jpg",
-      "logo": "/assets/meta-logo.png",
-      "category": "Website | Web design | JavaScript",
-      "video": "https://res.cloudinary.com/base-data/video/upload/q_50/v1694645110/images/meta.mp4"
-    },
-    {
-      "id": 5,
       "title": "kaizen Branding",
       "date": "2023",
       "client": "Michael Badiako",
@@ -84,11 +17,8 @@
         "/images/kaizen/Branding/04.png",
         "/images/kaizen/Branding/04.png"
       ]
-    }
-  ],
-  "projects": [
+    },
     {
-      "id": 1,
       "title": "NFL SA Leaderboard",
       "date": "2023",
       "client": "Michael Badiako",
@@ -107,27 +37,19 @@
       ]
     },
     {
-      "id": 2,
       "title": "Firebase message relay application",
       "date": "2023",
       "client": "Michael Badiako",
       "location": "Ghana",
       "live": "reactions.mx4.app",
-      "live2": "https://nfloverall.mx4.app",
-      "description": "A leaderboard for an NFL event in South Africa",
+      "description": "The project was to develope a message application for an event where message will be sent from audience from a website which will be displayed on the event screen. This was accomplished by building two website, one for the audinece and one to display the messages and then overlayed onto the screen. For confidential purposes may only have access to the audience website.",
       "status": "online",
-      "imageUrl": "https://res.cloudinary.com/base-data/image/upload/v1694632349/images/NFL/nflsa.jpg",
+      "imageUrl": "https://res.cloudinary.com/base-data/image/upload/v1701746017/images/reactions/image_jc6c1b.webp",
       "logo": "/assets/nfl.png",
-      "category": "Website | React | API Development | Tailwind CSS",
-      "video": "https://res.cloudinary.com/base-data/video/upload/e_accelerate:0,q_60/v1695871899/images/NFL/nfl_xbnqdp.mp4",
-      "images": [
-        "https://res.cloudinary.com/base-data/video/upload/ac_none,q_50/v1694938693/images/NFL/signal-2023-09-16-201544_004_tkdhsl.gif",
-        "/images/NFL/00.jpg",
-        "/images/NFL/01.jpg"
-      ]
+      "category": "Website | React | Firebase | Tailwind CSS",
+      "video": "https://res.cloudinary.com/base-data/video/upload/q_60/v1701744927/images/reactions/signal-2023-11-02-083745_002_jpzcte.mp4"
     },
     {
-      "id": 3,
       "title": "ad.Vantage",
       "date": "2023",
       "client": "Michael Badiako",
@@ -140,7 +62,6 @@
       "category": "Website | Landingpage | Tailwind CSS"
     },
     {
-      "id": 4,
       "title": "Charis Link Page",
       "date": "2023",
       "client": "Michael Badiako",
@@ -148,12 +69,11 @@
       "live": "https://charis.mx4.app",
       "description": "A simple landing page for a music artist where people can visit her content on other platforms for her new album release",
       "status": "online",
-      "imageUrl": "/assets/advantage.jpg",
-      "logo": "/assets/ad-logo.png",
+      "imageUrl": "https://res.cloudinary.com/base-data/image/upload/v1701685098/images/charis/main-image.jpg",
+      "logo": "https://res.cloudinary.com/base-data/image/upload/v1701685059/images/charis/fav.png",
       "category": "Website | Landingpage "
     },
     {
-      "id": 5,
       "title": "META",
       "date": "2022",
       "client": "Meta",
@@ -167,7 +87,6 @@
       "video": "https://res.cloudinary.com/base-data/video/upload/q_50/v1694645110/images/meta.mp4"
     },
     {
-      "id": 6,
       "title": "Desoc",
       "date": "2020",
       "client": "Unknown",
@@ -188,7 +107,6 @@
       ]
     },
     {
-      "id": 7,
       "title": "Hiedberg",
       "date": "2020",
       "client": "Hiedberg",
@@ -210,25 +128,6 @@
         "/images/hiedberg/05.png",
         "/images/hiedberg/06.png",
         "/images/hiedberg/09.png"
-      ]
-    },
-    {
-      "id": 8,
-      "title": "kaizen Branding",
-      "date": "2023",
-      "client": "Michael Badiako",
-      "location": "Ghana",
-      "description": "Rebranding iamadinkra which is a personal brand to kaizen av projects which is the company brand. The challenge was to seamlessly redesign iamadinkra to have this new unique feel and look, something out of the box and fresh, designing the logo, brand assets like t-shirt, documents and the brand manual.",
-      "status": "offline",
-      "imageUrl": "https://res.cloudinary.com/base-data/image/upload/v1701681109/images/kaizen/Branding/02.jpg",
-      "category": "Branding | Mockup | Logo design ",
-      "images": [
-        "/images/kaizen/Branding/00.png",
-        "/images/kaizen/Branding/01.png",
-        "/images/kaizen/Branding/03.png",
-        "/images/kaizen/Branding/02.png",
-        "/images/kaizen/Branding/04.png",
-        "/images/kaizen/Branding/04.png"
       ]
     }
   ]
