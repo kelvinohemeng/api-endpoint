@@ -57,7 +57,7 @@
       "live": "https://signage.iamadinkra.com",
       "description": "An ad marketing page for iamadinkra to showcase their capability to host client advertisement on screen in various location where potential costomers may be.",
       "status": "online",
-      "imageUrl": "/assets/advantage.jpg",
+      "imageUrl": "https://res.cloudinary.com/base-data/image/upload/c_fill,ar_9:16/v1701827394/images/10_xcaeao.jpg",
       "logo": "/assets/ad-logo.png",
       "category": "Website | Landingpage | Tailwind CSS"
     },
