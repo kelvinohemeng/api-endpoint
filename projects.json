@@ -24,7 +24,7 @@
       "client": "Michael Badiako",
       "location": "Ghana",
       "live": "https://nfloverall.mx4.app",
-      "description": "A leaderboard for an NFL event in South Africa",
+      "description": "A leaderboard for an NFL event in South Africa, where I use the power of react and google sheet app script to generate an api that updates realtime. This had to be done because the event was going to show the leaderboar as player partake in events.",
       "status": "online",
       "imageUrl": "/assets/project-images/nflsa.jpg",
       "logo": "/assets/nfl.png",
