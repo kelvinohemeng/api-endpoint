@@ -70,7 +70,7 @@
       "description": "A simple landing page for a music artist where people can visit her content on other platforms for her new album release",
       "status": "online",
       "imageUrl": "/assets/project-images/charis.jpg",
-      "logo": "https://res.cloudinary.com/base-data/image/upload/v1701685059/images/charis/fav.png",
+      "logo": "/assets/charis.png",
       "category": "Website | Landingpage "
     },
     {
@@ -115,6 +115,7 @@
       "description": "I was responsible for creating three logo concept ideas fort he brand, and designing the brand, it's look and feel and the brand manual.",
       "status": "online",
       "imageUrl": "/assets/project-images/heidberg.jpg",
+      "logo": "/assets/wink.png",
       "category": "Branding | Mockup | Logo design ",
       "images": [
         "/images/hiedberg/000.png",
