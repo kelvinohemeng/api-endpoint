@@ -45,7 +45,7 @@
       "description": "The project was to develope a message application for an event where message will be sent from audience from a website which will be displayed on the event screen. This was accomplished by building two website, one for the audinece and one to display the messages and then overlayed onto the screen. For confidential purposes may only have access to the audience website.",
       "status": "online",
       "imageUrl": "/assets/project-images/fma.png",
-      "logo": "/assets/nfl.png",
+      "logo": "/assets/fma-logo.png",
       "category": "Website | React | Firebase | Tailwind CSS",
       "video": "https://res.cloudinary.com/base-data/video/upload/q_60/v1701744927/images/reactions/signal-2023-11-02-083745_002_jpzcte.mp4"
     },
