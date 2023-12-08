@@ -41,7 +41,7 @@
       "date": "2023",
       "client": "Michael Badiako",
       "location": "Ghana",
-      "live": "reactions.mx4.app",
+      "live": "https://reactions.mx4.app",
       "description": "The project was to develope a message application for an event where message will be sent from audience from a website which will be displayed on the event screen. This was accomplished by building two website, one for the audinece and one to display the messages and then overlayed onto the screen. For confidential purposes may only have access to the audience website.",
       "status": "online",
       "imageUrl": "/assets/project-images/fma.png",
