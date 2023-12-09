@@ -1,6 +1,7 @@
 {
   "projects": [
     {
+      "id":1,
       "title": "kaizen Branding",
       "date": "2023",
       "client": "Michael Badiako",
@@ -19,6 +20,7 @@
       ]
     },
     {
+      "id":2,
       "title": "NFL SA Leaderboard",
       "date": "2023",
       "client": "Michael Badiako",
@@ -37,6 +39,7 @@
       ]
     },
     {
+      "id":3,
       "title": "Firebase message relay application",
       "date": "2023",
       "client": "Michael Badiako",
@@ -50,6 +53,7 @@
       "video": "https://res.cloudinary.com/base-data/video/upload/q_60/v1701744927/images/reactions/signal-2023-11-02-083745_002_jpzcte.mp4"
     },
     {
+      "id":4,
       "title": "ad.Vantage",
       "date": "2023",
       "client": "Michael Badiako",
@@ -62,6 +66,7 @@
       "category": "Website | Landingpage | Tailwind CSS"
     },
     {
+      "id":5,
       "title": "Charis Link Page",
       "date": "2023",
       "client": "Michael Badiako",
@@ -74,6 +79,7 @@
       "category": "Website | Landingpage "
     },
     {
+      "id":6,
       "title": "META",
       "date": "2022",
       "client": "Meta",
@@ -87,6 +93,7 @@
       "video": "https://res.cloudinary.com/base-data/video/upload/q_50/v1694645110/images/meta.mp4"
     },
     {
+      "id":7,
       "title": "Desoc",
       "date": "2020",
       "client": "Unknown",
@@ -107,6 +114,7 @@
       ]
     },
     {
+      "id":8,
       "title": "Hiedberg",
       "date": "2020",
       "client": "Hiedberg",
