@@ -10,7 +10,7 @@
       "status": "offline",
       "imageUrl": "/assets/project-images/kaizen.jpg",
       "logo": "/assets/kaizen.png",
-      "category": "Branding | Mockup | Logo design ",
+      "category": "Branding | Mockup | Logo design | Real-world",
       "images": [
         "/images/kaizen/Branding/00.png",
         "/images/kaizen/Branding/01.png",
@@ -30,7 +30,7 @@
       "status": "online",
       "imageUrl": "/assets/project-images/nflsa.jpg",
       "logo": "/assets/nfl.png",
-      "category": "Website | React | API Development | Tailwind CSS",
+      "category": "Website | React | API Development | Tailwind CSS | Real-world",
       "video": "https://res.cloudinary.com/base-data/video/upload/e_accelerate:0,q_60/v1695871899/images/NFL/nfl_xbnqdp.mp4",
       "images": [
         "https://res.cloudinary.com/base-data/video/upload/ac_none,q_50/v1694938693/images/NFL/signal-2023-09-16-201544_004_tkdhsl.gif",
@@ -49,7 +49,7 @@
       "status": "online",
       "imageUrl": "/assets/project-images/fma.png",
       "logo": "/assets/fma-logo.png",
-      "category": "Website | React | Firebase | Tailwind CSS",
+      "category": "Website | React | Firebase | Tailwind CSS | Real-world",
       "video": "https://res.cloudinary.com/base-data/video/upload/q_60/v1701744927/images/reactions/signal-2023-11-02-083745_002_jpzcte.mp4"
     },
     {
@@ -63,7 +63,7 @@
       "status": "online",
       "imageUrl": "/assets/project-images/ad.Vantage.jpg",
       "logo": "/assets/ad-logo.png",
-      "category": "Website | Landingpage | Tailwind CSS"
+      "category": "Website | Landingpage | Tailwind CSS | Real-world"
     },
     {
       "id":5,
@@ -76,7 +76,7 @@
       "status": "online",
       "imageUrl": "/assets/project-images/charis.jpg",
       "logo": "/assets/charis.png",
-      "category": "Website | Landingpage "
+      "category": "Website | Landingpage | Real-world"
     },
     {
       "id":6,
@@ -89,7 +89,7 @@
       "status": "online",
       "imageUrl": "/assets/project-images/meta.jpg",
       "logo": "/assets/meta-logo.png",
-      "category": "Website | Web design | JavaScript",
+      "category": "Website | Web design | JavaScript | Real-world",
       "video": "https://res.cloudinary.com/base-data/video/upload/q_50/v1694645110/images/meta.mp4"
     },
     {
@@ -124,7 +124,7 @@
       "status": "online",
       "imageUrl": "/assets/project-images/heidberg.jpg",
       "logo": "/assets/wink.png",
-      "category": "Branding | Mockup | Logo design ",
+      "category": "Branding | Mockup | Logo design  | Real-world",
       "images": [
         "/images/hiedberg/000.png",
         "/images/hiedberg/00.png",
